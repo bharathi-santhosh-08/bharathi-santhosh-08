@@ -2,7 +2,7 @@
 <h3 align="center">Python full stock developer & Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React Js,Django**
+- 🌱 I’m currently working software trainer at **G-Tec Computer Education**
 
 - 📫 How to reach me **bharathi2004kdm@gmail.com**
 
